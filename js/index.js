@@ -1,8 +1,5 @@
 const zone = document.getElementById('adventure-zone');
-const row = document.createElement('div');
-const h1 = document.createElement('h1');
-h1.innerText = 'THE ADVENTURE ZONE';
-zone.appendChild(h1);
+const row = document.createElement('main');
 // const adventurer = {
 //     name: "Robin",
 //     health: 10,

@@ -1,8 +1,8 @@
-div {
+main {
+    display: flex;
     justify-content: space-around;
 }
 p {
-    display: inline-flex;
-    justify-content: space-around;
+    display: flex;
     background-color: red;
 }
